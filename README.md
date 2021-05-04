@@ -3,7 +3,7 @@ This is my first ever Data Science Project, the resources can be found here: htt
 
 Titianic is a Classification project where you have to predict whether the passenger survive from the given information.
 It is a nice project to start out since there are only two output classes and decent amount of rows and columns for sharpening the feature engineering skills.
-In this work my best performance was 81% accuracy and ranked top 12%
+In this work my best performance was 79% accuracy and ranked top 12%
 
 Ideal Workflow:
 1.EDA (would be to nice to draw histogram using numerical features against 'survived' and 'not survived'
