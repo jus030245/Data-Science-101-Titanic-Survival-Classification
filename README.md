@@ -11,7 +11,6 @@ Ideal Workflow:
 2.Processing for Missing Values and Outliering
 3.Data Scaling and Transformation
 4.Feature Engineering (especially on the name, tickets)
-5.Preprocessing for model (one-hot encoding)
-6.Model Building and Hyperparameter Tuning
-7.Ensembling and Stacking
-9.Predict and Submit
+5.Model Building and Hyperparameter Tuning
+6.Ensembling and Stacking
+7.Predict and Submit
