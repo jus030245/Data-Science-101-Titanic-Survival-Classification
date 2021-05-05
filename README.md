@@ -6,7 +6,6 @@ It is a nice project to start out since there are only two output classes but de
 In this work my best performance was 79% accuracy and ranked top 12%
 
 Ideal Workflow:
-
 1.EDA (would be to nice to draw histogram using numerical features against 'survived' and 'not survived'
 2.Processing for Missing Values and Outliering
 3.Data Scaling and Transformation
